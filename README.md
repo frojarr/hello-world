@@ -1,5 +1,5 @@
 # hello-world
-Repositorio de práctica para el flujo de GitHub.
+Simple java program.
 
-## propósito
-Entender y practicar el manejo de GitHub.
+## Goal
+Practice GitHub Actions.
